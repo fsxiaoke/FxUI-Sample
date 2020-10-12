@@ -9,6 +9,6 @@
 上传的自定义组件中仅支持vue,js,less,scss,css类型文件。
 ## 示例导航
 
-- **[校验客户](https://github.com/fsxiaoke/FxUI-Sample/blob/main/Validate/README.md)**
-- **[自定义商品列表](https://github.com/fsxiaoke/FxUI-Sample/blob/main/SPUExhibition/README.md)**
+- **[校验客户](https://github.com/fsxiaoke/FxUI-Sample/blob/master/Validate/README.md)**
+- **[自定义商品列表](https://github.com/fsxiaoke/FxUI-Sample/blob/master/SPUExhibition/README.md)**
 
