@@ -1,6 +1,6 @@
 ## 简介
 
-**FxUI-Sample-SPUExhibition**是一个开源的[纷享销客](https://www.fxiaoke.com/)自定义组件项目，它基于 [vue 2.x](https://github.com/vuejs/vue) 、 [FaciUI](https://www.fxiaoke.com/mob/guide/uipaas/open/dist/index.html#/start/what)实现。后台数据通过[自定义函数](https://www.fxiaoke.com/mob/guide/crmdoc/src/8%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html)搭建。
+**FxUI-Sample-SPUExhibition**是一个开源的[纷享销客](https://www.fxiaoke.com/)自定义组件项目，它基于 [vue 2.x](https://github.com/vuejs/vue) 、 [FxUI](https://www.fxiaoke.com/mob/guide/uipaas/open/dist/index.html#/start/what)实现。后台数据通过[自定义函数](https://www.fxiaoke.com/mob/guide/crmdoc/src/8%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html)搭建。
 
 商品列表信息不明显？无法突出重点？自定义页面可以重新定制化您的交互，设置自己的导航、分类等，可以配置出你想要的一眼能抓住重点的布局，您可以设置常用的字段单独更改并同步给详情，。
 

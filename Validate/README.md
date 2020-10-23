@@ -1,6 +1,6 @@
 ## 简介
 
-**FxUI-Sample-ValidateAccount**是一个开源的[纷享销客](https://www.fxiaoke.com/)自定义组件项目，它基于 [vue 2.x](https://github.com/vuejs/vue) 、 [FaciUI](https://www.fxiaoke.com/mob/guide/uipaas/open/dist/index.html#/start/what)实现。后台数据通过[自定义函数](https://www.fxiaoke.com/mob/guide/crmdoc/src/8%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html)搭建。主要作用于纷享详情，利用天眼查查询关键字获取公司列表，并查询目标客户的营业执照号、注册资本、描述等信息并回填至纷享详情中。
+**FxUI-Sample-ValidateAccount**是一个开源的[纷享销客](https://www.fxiaoke.com/)自定义组件项目，它基于 [vue 2.x](https://github.com/vuejs/vue) 、 [FxUI](https://www.fxiaoke.com/mob/guide/uipaas/open/dist/index.html#/start/what)实现。后台数据通过[自定义函数](https://www.fxiaoke.com/mob/guide/crmdoc/src/8%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html)搭建。主要作用于纷享详情，利用天眼查查询关键字获取公司列表，并查询目标客户的营业执照号、注册资本、描述等信息并回填至纷享详情中。
 
 您可以根据自己的场景来做逻辑处理，例如是否与其他对象（示例中为【关联对象】）中重复等
 
